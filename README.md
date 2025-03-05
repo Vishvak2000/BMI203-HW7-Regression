@@ -1,3 +1,5 @@
+[![Github Actions Test](https://github.com/Vishvak2000/BMI203-HW7-Regression/actions/workflows/python-app.yml/badge.svg)](https://github.com/Vishvak2000/BMI203-HW7-Regression/actions/workflows/python-app.yml)
+
 # HW 7: logistic regression
 
 In this assignment, you'll implement a classifier using logistic regression, optimized with gradient descent.
